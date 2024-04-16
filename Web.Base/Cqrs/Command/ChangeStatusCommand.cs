@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using GTD.Frw.Cqrs.Core.Command;
 
-namespace GTD.Frw.Cqrs.Command
+
+namespace Web.Base.Cqrs.Command
 {
     public class ChangeStatusCommand : ICommand
     {
